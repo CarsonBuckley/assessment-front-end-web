@@ -1,0 +1,99 @@
+body {
+  background: #26282D;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+	color: white;
+}
+
+h2 {
+	color: white;
+}
+
+h3 {
+	color: white;
+}
+
+p {
+	color: white;
+}
+
+li {
+	color: white;
+}
+
+label {
+	color: white;
+}
+
+nav {
+	border-bottom: 2px solid deepskyblue;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+#checkbox {
+	display: inline-block;
+}
+
+#check {
+	display: inline-block;
+}
+
+#vehicle1 {
+	display: inline-block;
+}
+
+img {
+	max-width: 300px;
+	border-radius: 20px;
+}
+
+#submit {
+	background-color: deepskyblue;
+	color: white;
+	border-radius: 4px;
+	border-color: deepskyblue;
+	margin-top: 10px;
+}
+
+button {
+	background-color: deepskyblue;
+	color: white;
+	border-radius: 4px;
+	border-color: deepskyblue;
+	margin-top: 10px;
+	display: block;
+}
+
+.yellow-btn {
+	background-color: yellow;
+	color: black;
+	border-color: yellow;
+	block-size: 50px;
+}
